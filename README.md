@@ -1,5 +1,5 @@
 # Custom_HuggingfaceModel_to_tfLite
-convert_to_tflite/ \\
+convert_to_tflite/ \
 │ \\
 ├── model/                    # Your model folder \\
 │   ├── config.json
