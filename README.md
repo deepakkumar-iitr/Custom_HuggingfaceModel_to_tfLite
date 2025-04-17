@@ -1,7 +1,7 @@
 # Custom_HuggingfaceModel_to_tfLite
 convert_to_tflite/ \
 │ \
-├── model/                        \t # Your model folder \
+├── model/                        # Your model folder \
 │   ├── config.json \
 │   ├── tokenizer_config.json \
 │   ├── vocab.txt / merges.txt \
