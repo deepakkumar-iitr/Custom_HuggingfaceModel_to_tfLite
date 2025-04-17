@@ -1,0 +1,6 @@
+transformers
+torch
+safetensors
+onnx
+onnx-tf
+tensorflow
